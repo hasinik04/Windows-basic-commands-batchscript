@@ -19,6 +19,7 @@ Adapt paths as needed based on your system configuration.
 ### Step 3:
 
 Execute the necessary commands/batch file for the desired output. 
+
 # WINDOWS COMMANDS:
 ## Exercise 1: Basic Directory and File Operations
 Create a directory named "MyLab" on the desktop.
@@ -26,24 +27,28 @@ Create a directory named "MyLab" on the desktop.
 ## COMMAND AND OUTPUT
 
 Change to the "MyLab" directory and create an empty text file named "MyFile.txt" inside it.
+
 ![image](https://github.com/user-attachments/assets/79994867-9fdf-4a04-a243-384e79a8f810)
 
 
 ## COMMAND AND OUTPUT
 
 List the contents of the "MyLab" directory.
+
 ![image](https://github.com/user-attachments/assets/a5c55c19-ffce-4eaa-93b5-961a1c3e9d39)
 
 
 ## COMMAND AND OUTPUT
 
 Copy "MyFile.txt" to a new folder named "Backup" on the desktop.
+
 ![image](https://github.com/user-attachments/assets/183b996e-5d79-44cd-b546-5ecadfaff80d)
 
 
 ## COMMAND AND OUTPUT
 
 Move the "MyLab" directory to the "Documents" folder.
+
 ![image](https://github.com/user-attachments/assets/f5e2e7c5-1210-4344-b897-82fa7bac4f9e)
 
 
