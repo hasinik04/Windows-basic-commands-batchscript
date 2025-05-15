@@ -44,7 +44,7 @@ Copy "MyFile.txt" to a new folder named "Backup" on the desktop.
 
 ![image](https://github.com/user-attachments/assets/183b996e-5d79-44cd-b546-5ecadfaff80d)
 
-
+ 
 ## COMMAND AND OUTPUT
 
 Move the "MyLab" directory to the "Documents" folder.
